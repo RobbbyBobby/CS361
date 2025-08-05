@@ -17,3 +17,7 @@ Will see if parameter exists:
 
 If request is not 200:
 - Will print an exception as "Request Failed"
+
+UML Diagram
+
+<img width="578" height="336" alt="Screenshot 2025-08-05 at 1 20 29 AM" src="https://github.com/user-attachments/assets/c7b8dbb5-f492-4d6d-b431-d5a3a294365a" />
