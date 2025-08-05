@@ -7,6 +7,7 @@ Example: Get recipes for mexican cusine
 
 
 How to RECEIVE Data:
+
 <img width="575" height="221" alt="Screenshot 2025-08-05 at 1 12 06 AM" src="https://github.com/user-attachments/assets/e85953ff-6189-45c5-b0ee-1a10492ec198" />
 
 If request is 200:
